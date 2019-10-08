@@ -1,0 +1,2 @@
+body{background-image:-webkit-gradient(linear, left top, right top, from(green), color-stop(white), to(red));background-image:linear-gradient(to right, green, white, red)}body{margin:0;padding:0;font-family:serif}nav{width:100%;background:darkred}ul{width:80%;margin:0 auto;padding:0}ul li{list-style:none;display:inline-block;padding:20px}ul li:hover{background:darkgreen}ul li a{color:#fff;text-decoration:none}@media (max-width: 768px){ul{width:100%}ul li{display:block;text-align:center}}
+/*# sourceMappingURL=style.min.css.map */
